@@ -1,0 +1,12 @@
+{
+  "name": "PlazzmiK/kirby-exif-fixer",
+  "description": "Kirby EXIF Fixer en Resizer Plugin",
+  "license": "MIT",
+  "authors": [
+    {
+        "name": "Jan Teunis",
+        "email": "Jan@Teunis.be",
+        "homepage": "https://www.Teunis.be"
+    }
+]
+}
